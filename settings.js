@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94725292890']
-global.premium = ['94725292890']
+global.owner = ['94740804536']
+global.premium = ['94740804536']
 global.ownernomer = '94725292890'
-global.ownername = '么° 🄼 SHANZ 🥀 | ❤️'
-global.botname = 'SHANZ-BOT'
-global.footer = '©MRSHANZ.'
+global.ownername = '么° Nowty Dinuwa Official '
+global.botname = ' Nowty Dinuwa ²⁰²² -BOT'
+global.footer = '© Nowty Dinuwa ²⁰²² Bot .'
 global.ig = 'https://pin.it/7ln105o'
-global.region = 'Kandy,Sri lanka'
+global.region = ' Homagama ,Sri lanka'
 global.sc = 'https://chat.whatsapp.com/IdiOlEAsYiNFZ8Y4lXMYqe'
 global.myweb = 'https://youtube.com/channel/UCX9GuKbYYWJ80O3Kymkn3Uw'
-global.packname = 'SHANZ-BOT STICKERS\n\n\n\n\n\n\n\n '
-global.author = 'Mr SHANZ ツ'
+global.packname = ' Nowty Dinuwa ²⁰²² -BOT STICKERS\n\n\n\n\n\n\n\n '
+global.author = ' Nowty Dinuwa ²⁰²² ツ'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🦄'
